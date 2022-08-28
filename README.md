@@ -1,7 +1,7 @@
 ## Hey tout le monde <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Je suis [Akiyo-bot](https://github.com/Akiyo-bot), un Francais passionné par les jeux et la programmation.
 
-• 📫 Comment me joindre: [Discord](https://discord.gg/prefech); 
+• 📫 Comment me joindre: [Discord](https://discord.gg/5AYmj5ZqQW); 
 
 **Langages de programmation à utiliser:**  
 
