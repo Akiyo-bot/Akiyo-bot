@@ -1,3 +1,10 @@
+## Hey tout le monde <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Je suis [Akiyo-bot](https://github.com/Akiyo-bot), un Francais passionné par les jeux et la programmation.
+
+• 📫 Comment me joindre: [Discord](https://discord.gg/prefech); 
+
+**Langages de programmation à utiliser:**  
+
 <code><img height="20" alt="javascript" src="https://github.com/Akiyo-bot/Akiyo-bot/blob/main/image/JavaScript.png"></code>
 <code><img height="20" alt="php" src="https://github.com/Akiyo-bot/Akiyo-bot/blob/main/image/PHP.png">
 </code>
