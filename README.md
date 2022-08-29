@@ -3,7 +3,7 @@ Je suis [Akiyo-bot](https://github.com/Akiyo-bot), un Francais passionné par le
 
 • 📫 Comment me joindre: [Discord](https://discord.gg/5AYmj5ZqQW); 
 
-**Langages de programmation à utiliser:**  
+**Langages de programmation utiliser:**  
 
 <code><img height="20" alt="javascript" src="https://github.com/Akiyo-bot/Akiyo-bot/blob/main/image/JavaScript.png"></code>
 <code><img height="20" alt="php" src="https://github.com/Akiyo-bot/Akiyo-bot/blob/main/image/PHP.png">
